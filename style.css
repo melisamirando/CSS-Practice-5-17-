@@ -1,0 +1,12 @@
+body{
+    background-color:#5B7FBD;
+    font-family:tahoma;
+}
+ul{
+    text-align: center;
+}
+.copyright{font-style: italic; font-size:small;
+}
+a{
+    color:rgb(161, 31, 161); 
+}
